@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I’m Khant Zayar(Vance)
 
-<!--
-**Vance1832/Vance1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at Rangsit University and currently looking for internship opportunities.  
+I’m interested in software development, web development, and game development, and I use projects as my main way to learn.
 
-Here are some ideas to get you started:
+## About Me
+I enjoy working on practical projects that help me understand how things work, not just how to write code.  
+Most of my experience comes from self-learning, coursework, and building small systems or prototypes while studying.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: Python, C#, JavaScript, HTML, CSS  
+- Web: Next.js  
+- Game Development: Unity (C#)  
+- Tools: Git, GitHub, VS Code  
+
+## Projects
+- Computer Vision Virtual Mouse  
+  A Python project that uses computer vision techniques to control mouse movement.
+
+- Scholarship Funding and Management System  
+  A system designed to help manage scholarship funding and related data.
+
+## Currently Learning
+- Game development with Unity and C#  
+- Improving my understanding of full-stack web development
+
+## Contact
+- Email: khant.z67@rsu.ac.th
