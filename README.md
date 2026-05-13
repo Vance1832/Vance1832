@@ -25,4 +25,4 @@ Most of my experience comes from self-learning, coursework, and building small s
 - Improving my understanding of full-stack web development
 
 ## Contact
-- Email: khant.z67@rsu.ac.th
+- Email: khant.zayar.dev@gmail.com
