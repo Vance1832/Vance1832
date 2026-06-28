@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khant%20Zayar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khant-zayar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vance1832-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vance1832)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-khant.zayar.dev-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/khant.zayar.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-302b63?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-rho-rose-76.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Vance1832&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)](https://github.com/Vance1832)
 
 </div>
@@ -208,7 +208,7 @@ A third-person mystery game in Unity. A ghost collects memory shards across a ha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khant%20Zayar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khant-zayar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vance1832-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vance1832)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-khant.zayar.dev-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/khant.zayar.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-302b63?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-rho-rose-76.vercel.app)
 
 </div>
 
