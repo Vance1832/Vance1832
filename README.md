@@ -15,22 +15,22 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
-I am **Khant Zayar**, a **Computer Science student at Rangsit University** focused on building production-grade software and understanding how systems can be attacked and defended.
+I am **Khant Zayar**, a Computer Science student at Rangsit University building production-grade software while studying how systems are attacked and defended.
 
-My work spans **full-stack web development**, **network engineering**, **computer vision**, and **cybersecurity** — I learn best by building things that solve real problems, then studying how they break.
+My work spans full-stack web development, network engineering, computer vision, and cybersecurity. I learn by building things that solve real problems, then figuring out how they break.
 
-- 🔭 Building **[Flowbit](https://github.com/Vance1832/flowbit)** — a fintech ledger & settlement platform with Django + Next.js
-- 🏠 Developing **ResidentHub** — a resident management & community operations platform
-- 🛡️ Designed **SecureReport** — a cybersecurity incident reporting & learning platform
-- 🌱 Actively studying **penetration testing**, **network security**, and **ethical hacking**
-- ⚡ Also into **computer vision**, **game dev**, and **algorithmic systems**
-- 📫 Reach me at **khant.zayar.dev@gmail.com**
+- Currently building **[Flowbit](https://github.com/Vance1832/flowbit)** — a fintech ledger and settlement platform with Django and Next.js
+- Developing **ResidentHub** — a resident management and community operations platform
+- Designed **SecureReport** — a cybersecurity incident reporting and learning platform
+- Actively studying penetration testing, network security, and ethical hacking
+- Also working in computer vision, game development, and algorithmic systems
+- Reach me at **khant.zayar.dev@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -65,7 +65,7 @@ My work spans **full-stack web development**, **network engineering**, **compute
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
 
-### 🔐 Cybersecurity & Networking
+### Cybersecurity & Networking
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -83,19 +83,16 @@ My work spans **full-stack web development**, **network engineering**, **compute
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### ⚡ Flowbit
-> A production-grade number-based ledger & settlement platform for Myanmar digital wallets.
+### Flowbit
+![Fintech](https://img.shields.io/badge/Fintech-302b63?style=flat-square) ![In Progress](https://img.shields.io/badge/In%20Progress-1a7f37?style=flat-square)
 
-- **Auth:** OTP login, role-based access (Owner / Admin / Staff / User)
-- **Finance:** Wallet deposits, withdrawals, idempotency, system settings
-- **Async:** Celery + Redis broker for background jobs & notifications
-- **Compliance:** KYC/AML, responsible gambling, full audit logging
+A production-grade ledger and settlement platform for Myanmar digital wallets. Handles deposits, withdrawals, OTP auth, role-based access, Celery async jobs, KYC/AML compliance, and full audit logging.
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -105,13 +102,10 @@ My work spans **full-stack web development**, **network engineering**, **compute
   </td>
   <td width="50%" valign="top">
 
-### 🌐 Rangsit Social
-> A full-stack campus social media platform for Rangsit University students.
+### Rangsit Social
+![Social Platform](https://img.shields.io/badge/Social%20Platform-0A66C2?style=flat-square) ![Live](https://img.shields.io/badge/Live-1a7f37?style=flat-square)
 
-- **Stack:** Next.js 15, React 19, MySQL, Cloudinary, Vercel
-- **Features:** Profiles, posts, follows, media uploads, notifications
-- **Auth:** Session-based authentication with role handling
-- **Deployment:** Live on Vercel with Aiven-hosted MySQL
+Full-stack campus social media for Rangsit University. Profiles, posts, follows, media uploads, and notifications. Deployed on Vercel with Aiven-hosted MySQL.
 
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1E3A8A?style=flat-square&logo=mysql&logoColor=white)
@@ -123,13 +117,10 @@ My work spans **full-stack web development**, **network engineering**, **compute
   <tr>
   <td width="50%" valign="top">
 
-### 🛡️ SecureReport
-> A cybersecurity incident reporting & learning platform (WDF Foundation final project).
+### SecureReport
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-557C94?style=flat-square) ![WDF Final Project](https://img.shields.io/badge/WDF%20Final-A30000?style=flat-square)
 
-- **Design System:** 7-screen desktop UI with shared component library
-- **Platform:** Incident intake, severity classification, timeline tracking
-- **Learning Hub:** Post-incident analysis and knowledge base integration
-- **Stack:** Vanilla HTML, CSS, JavaScript — zero dependencies
+A cybersecurity incident reporting and learning platform. 7-screen desktop UI covering incident intake, severity classification, timeline tracking, and post-incident analysis. Built with zero dependencies.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -138,28 +129,22 @@ My work spans **full-stack web development**, **network engineering**, **compute
   </td>
   <td width="50%" valign="top">
 
-### 🖥️ Enterprise Network Design
-> Enterprise-grade network implementation using Cisco Packet Tracer.
+### Enterprise Network Design
+![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=flat-square) ![Security](https://img.shields.io/badge/Security-FF6633?style=flat-square)
 
-- **Architecture:** VLAN segmentation and inter-VLAN routing
-- **Services:** DHCP, DNS configuration across multiple subnets
-- **Security:** Port security, access control, network hardening
-- **Scope:** Full topology covering switches, routers, and end devices
+Enterprise network implemented in Cisco Packet Tracer. VLAN segmentation, inter-VLAN routing, DHCP, DNS, port security, and access control across a full switch/router topology.
 
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0052CC?style=flat-square&logo=icloud&logoColor=white)
 
   </td>
   </tr>
   <tr>
   <td width="50%" valign="top">
 
-### 🖱️ Virtual Mouse — Computer Vision
-> Control your mouse with hand gestures using a webcam. No hardware required.
+### Virtual Mouse
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square)
 
-- **Tech:** Python, OpenCV, MediaPipe
-- **Features:** Real-time hand tracking, gesture-to-click mapping
-- **Use Case:** Accessibility tool and computer vision research project
+Webcam-based mouse control using hand gesture recognition. Real-time hand tracking maps gestures to cursor movement and click events. No additional hardware required.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -167,12 +152,10 @@ My work spans **full-stack web development**, **network engineering**, **compute
   </td>
   <td width="50%" valign="top">
 
-### 👻 Whisper of Ascension
-> A Unity third-person mystery game where a lost ghost collects memory shards and ascends from a haunted cemetery.
+### Whisper of Ascension
+![Game Dev](https://img.shields.io/badge/Game%20Dev-111827?style=flat-square)
 
-- **Engine:** Unity with C# scripting
-- **Mechanics:** Third-person movement, collectibles, narrative progression
-- **Art:** Custom sprites, atmosphere, cemetery environment design
+A third-person mystery game in Unity. A ghost collects memory shards across a haunted cemetery to solve a case and ascend. Custom sprites, third-person movement, and narrative progression.
 
 ![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=sharp&logoColor=white)
@@ -183,7 +166,7 @@ My work spans **full-stack web development**, **network engineering**, **compute
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -198,26 +181,26 @@ My work spans **full-stack web development**, **network engineering**, **compute
 
 ---
 
-## 🎯 Goals
+## Goals
 
-- 🛡️ **Security Engineering:** Deepen penetration testing skills — web app, network, and system-level attacks
-- 💻 **Production Systems:** Transition from student projects to enterprise-scale, secure software
-- 🔬 **Research:** Explore the intersection of AI, computer vision, and cybersecurity
-- 🌐 **Open Source:** Contribute to security tooling and developer infrastructure projects
-- 💼 **Industry:** Land a Software Engineering or Security Engineering internship
-
----
-
-## 📚 Currently Learning
-
-- 🔐 **Penetration Testing** — web vulnerabilities, privilege escalation, CTF challenges via TryHackMe
-- 🌐 **Network Security** — VLAN security, firewall rules, IDS/IPS concepts
-- 🧠 **System Design** — scalable architecture, microservices, distributed systems
-- ⚙️ **DevSecOps** — CI/CD security, container hardening, secrets management
+- Deepen penetration testing skills — web app, network, and system-level vulnerabilities
+- Transition from student projects to enterprise-scale, secure production software
+- Explore the intersection of AI, computer vision, and cybersecurity
+- Contribute to open source security tooling and developer infrastructure
+- Land a Software Engineering or Security Engineering internship
 
 ---
 
-## 🤝 Connect
+## Currently Learning
+
+- Penetration testing — web vulnerabilities, privilege escalation, CTF challenges via TryHackMe
+- Network security — VLAN hardening, firewall rules, IDS/IPS concepts
+- System design — scalable architecture, microservices, distributed systems
+- DevSecOps — CI/CD security, container hardening, secrets management
+
+---
+
+## Connect
 
 <div align="center">
 
