@@ -5,7 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Computer+Science+Student+%40+Rangsit+University;Full-Stack+Developer+%7C+Django+%2B+Next.js;Aspiring+Security+Engineer;Building+real-world+systems+from+scratch)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-khant.zayar.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khant.zayar.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khant%20Zayar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khant-zayar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vance1832-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vance1832)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-khant.zayar.dev-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/khant.zayar.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-302b63?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=Vance1832&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)](https://github.com/Vance1832)
 
 </div>
@@ -219,8 +222,10 @@ My work spans **full-stack web development**, **network engineering**, **compute
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-khant.zayar.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khant.zayar.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khant%20Zayar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khant-zayar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vance1832-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vance1832)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Vance1832-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-khant.zayar.dev-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/khant.zayar.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-302b63?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 </div>
 
