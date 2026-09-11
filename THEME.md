@@ -3,6 +3,7 @@
 The README follows a centered terminal-and-credentials layout. All custom artwork is in `assets/`; changing it does not require rebuilding or installing dependencies.
 
 - Terminal: `assets/terminal_banner.svg`. Charcoal background `#0d1117`, frame `#30363d`, green prompt `#7ee787`, blue `#79c0ff`, amber `#e3b341`, purple `#d2a8ff`.
+- Reference proportions: 800 × 1176 SVG canvas, 760 × 1136 terminal frame, displayed at 760px in the README. Uses the reference's system monospace font stack with 13px body text, 12px ASCII shield, and 11px title bar.
 - Timing: each command types at 10 characters per second (100 ms per character), matching the reference's normal command cadence. The sequence finishes at about 21 seconds, holds until 28.2 seconds, gently clears, and restarts every 30 seconds.
 - Accessibility: reduced-motion preferences show the complete terminal immediately.
 - Certificates: locally hosted custom display icons in `assets/certs/`, linked to issuer credentials in the README. These are display artwork, not official issuer-issued badges.

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terminal_banner.svg?v=3" alt="Khant Zayar's animated analyst workstation: third-year CS student, earned security credentials, Security+ in progress, and a Summer 2027 SOC internship goal" width="760">
+  <img src="assets/terminal_banner.svg?v=4" alt="Khant Zayar's animated Blue Team workstation with an ASCII shield: third-year CS student, Security+ in progress, and a Summer 2027 SOC internship goal" width="760">
 </p>
 
 <p align="center">
