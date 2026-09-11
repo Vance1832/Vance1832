@@ -1,36 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="390" viewBox="0 0 780 390" role="img" aria-labelledby="title desc">
-  <title id="title">Khant Zayar secure terminal</title>
-  <desc id="desc">Animated terminal showing Khant Zayar's cybersecurity and software engineering career paths.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020617"/><stop offset="0.55" stop-color="#071625"/><stop offset="1" stop-color="#0c1c2d"/></linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.2"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399" stop-opacity="0.2"/></linearGradient>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <style>
-      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
-      .muted { fill: #64748b; } .cyan { fill: #22d3ee; } .green { fill: #34d399; } .white { fill: #cbd5e1; }
-      .line { opacity: 0; animation: reveal 12s infinite; }
-      .l1 { animation-delay: 0s; } .l2 { animation-delay: 0.8s; } .l3 { animation-delay: 1.6s; } .l4 { animation-delay: 2.4s; } .l5 { animation-delay: 3.2s; } .l6 { animation-delay: 4s; } .l7 { animation-delay: 4.8s; }
-      .cursor { animation: blink 0.9s step-end infinite; } .scan { animation: scan 5s linear infinite; }
-      @keyframes reveal { 0%, 5% { opacity: 0; transform: translateY(4px); } 10%, 92% { opacity: 1; transform: translateY(0); } 98%, 100% { opacity: 0; } }
-      @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
-      @keyframes scan { from { transform: translateY(-30px); } to { transform: translateY(390px); } }
-    </style>
-  </defs>
-  <rect x="1" y="1" width="778" height="388" rx="16" fill="url(#bg)" stroke="#164e63" stroke-width="2"/>
-  <rect x="1" y="1" width="778" height="48" rx="16" fill="#07111f"/><rect x="1" y="35" width="778" height="14" fill="#07111f"/>
-  <circle cx="25" cy="24" r="6" fill="#fb7185"/><circle cx="45" cy="24" r="6" fill="#fbbf24"/><circle cx="65" cy="24" r="6" fill="#34d399"/>
-  <text x="390" y="29" text-anchor="middle" class="mono muted" font-size="13">secure_shell — khant@github</text>
-  <rect x="0" y="47" width="780" height="2" fill="url(#edge)" filter="url(#glow)"/>
-  <g class="mono" font-size="17">
-    <g class="line l1"><text x="30" y="82" class="green">khant@github:~$</text><text x="205" y="82" class="white"> whoami</text></g>
-    <g class="line l2"><text x="30" y="115" class="cyan" font-size="25" font-weight="700">KHANT ZAYAR</text><text x="210" y="115" class="muted">// CS STUDENT · BANGKOK</text></g>
-    <g class="line l3"><text x="30" y="156" class="green">khant@github:~$</text><text x="205" y="156" class="white"> cat career.config</text></g>
-    <g class="line l4"><text x="48" y="189" class="cyan">PRIMARY</text><text x="145" y="189" class="white">= CYBERSECURITY</text><text x="394" y="189" class="muted"># defend · detect · respond</text></g>
-    <g class="line l5"><text x="48" y="222" class="cyan">SECONDARY</text><text x="165" y="222" class="white">= SOFTWARE_ENGINEERING</text><text x="445" y="222" class="muted"># design · build · ship</text></g>
-    <g class="line l6"><text x="30" y="263" class="green">khant@github:~$</text><text x="205" y="263" class="white"> ./build_the_future.sh</text></g>
-    <g class="line l7"><text x="48" y="300" class="green">[ OK ]</text><text x="118" y="300" class="white">learning</text><text x="235" y="300" class="green">[ OK ]</text><text x="305" y="300" class="white">building</text><text x="420" y="300" class="cyan">[ ACTIVE ]</text><text x="530" y="300" class="white">securing systems</text></g>
-    <g class="line l7"><text x="30" y="348" class="green">khant@github:~$</text><rect x="205" y="331" width="10" height="21" rx="1" class="cursor" fill="#22d3ee"/></g>
-  </g>
-  <rect x="0" y="0" width="780" height="30" fill="#22d3ee" opacity="0.025" class="scan"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="650" viewBox="0 0 760 650" role="img" aria-labelledby="title desc">
+<title id="title">Khant Zayar — Blue Team field notes</title>
+<desc id="desc">Computer Science student at Rangsit University. Goal: Blue Team and SOC analysis. Also building software with Python, Django and Next.js. Decorative terminal commands type slowly over 30 seconds and then remain visible.</desc>
+<defs>
+<style>
+text { font-family: "DejaVu Sans Mono", Menlo, Consolas, monospace; }
+.base { fill:#e6edf3; font-size:14px; } .muted { fill:#8b949e; } .green { fill:#7ee787; } .blue { fill:#79c0ff; } .amber { fill:#e3b341; } .purple { fill:#d2a8ff; }
+.type { animation: typing 3s steps(26,end) both; }
+.command1 { animation-delay:2s; } .command2 { animation-delay:9s; animation-duration:4s; } .command3 { animation-delay:22s; animation-duration:4s; }
+.output { animation: appear .5s both; }
+.o1 { animation-delay:5.5s; } .o2 { animation-delay:7s; } .p2 { animation-delay:8.5s; }
+.o3 { animation-delay:13.5s; } .o4 { animation-delay:15s; } .o5 { animation-delay:16.5s; } .o6 { animation-delay:18s; }
+.p3 { animation-delay:21s; } .o7 { animation-delay:27s; } .o8 { animation-delay:28.5s; } .end { animation-delay:30s; }
+.cursor { animation: blink 1.4s step-end infinite; }
+@keyframes typing { from { clip-path:inset(0 100% 0 0); } to { clip-path:inset(0 0 0 0); } }
+@keyframes appear { from { opacity:0; } to { opacity:1; } }
+@keyframes blink { 50% { opacity:0; } }
+@media (prefers-reduced-motion:reduce) { .type,.output,.cursor { animation:none; } }
+</style>
+</defs>
+<rect x=".5" y=".5" width="759" height="649" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M10 1H750Q759 1 759 10V34H1V10Q1 1 10 1" fill="#161b22"/>
+<circle cx="20" cy="17" r="5" fill="#ff5f57"/><circle cx="38" cy="17" r="5" fill="#febc2e"/><circle cx="56" cy="17" r="5" fill="#28c840"/>
+<text x="380" y="21" text-anchor="middle" font-size="11" fill="#8b949e">khant@localhost: ~ / field-notes — zsh</text>
+<text x="26" y="59" font-size="11" fill="#8b949e">PERSONAL LAB SESSION / LEARN · BUILD · DEFEND</text>
+<g fill="none" stroke="#79c0ff" stroke-width="1.5">
+<path d="M110 82L162 103V140Q160 178 110 202Q60 178 58 140V103Z"/>
+<path d="M110 94L150 111V140Q148 168 110 189Q72 168 70 140V111Z" stroke="#30363d"/>
+<path d="M88 139L104 155L134 121" stroke="#7ee787" stroke-width="3"/>
+<path d="M33 92H46M33 92V105M174 92H187V105M33 183V196H46M174 196H187V183" stroke="#484f58"/>
+</g>
+<g class="base">
+<text x="225" y="91" class="purple" font-weight="bold" font-size="21">KHANT ZAYAR</text>
+<text x="225" y="116" class="muted">────────────────────────────────────────</text>
+<text x="225" y="141"><tspan class="amber">Identity </tspan> CS student @ Rangsit University</text>
+<text x="225" y="164"><tspan class="amber">Goal     </tspan> Blue Team / SOC Analyst</text>
+<text x="225" y="187"><tspan class="amber">Builds   </tspan> Python · Django · Next.js</text>
+<text x="225" y="210"><tspan class="amber">Location </tspan> Bangkok, Thailand</text>
+</g>
+<g transform="translate(225 224)"><rect width="25" height="9" fill="#ff7b72"/><rect x="25" width="25" height="9" fill="#e3b341"/><rect x="50" width="25" height="9" fill="#7ee787"/><rect x="75" width="25" height="9" fill="#79c0ff"/><rect x="100" width="25" height="9" fill="#d2a8ff"/><rect x="125" width="25" height="9" fill="#ffa657"/><rect x="150" width="25" height="9" fill="#e6edf3"/></g>
+<path d="M26 252H734" stroke="#21262d"/>
+<g class="base">
+<text x="26" y="280" class="green">╭─ khant@localhost <tspan class="blue">~</tspan></text>
+<text x="26" y="304" class="green">╰─❯</text>
+<g class="type command1"><text x="64" y="304">whoami</text></g>
+<text x="26" y="331" class="output o1">Aspiring defender. Curious engineer. Always learning.</text>
+<text x="26" y="353" class="output o2 muted">Hands-on labs, CTFs and software projects.</text>
+<g class="output p2"><text x="26" y="391" class="green">╭─ khant@localhost <tspan class="blue">~/learning</tspan></text><text x="26" y="415" class="green">╰─❯</text></g>
+<g class="type command2"><text x="64" y="415">cat blue-team.path</text></g>
+<text x="26" y="442" class="output o3"><tspan class="blue">01 / FOUNDATIONS  </tspan> Networks · Linux · Python</text>
+<text x="26" y="464" class="output o4"><tspan class="blue">02 / DETECTION    </tspan> Logs · SIEM · Alert triage</text>
+<text x="26" y="486" class="output o5"><tspan class="blue">03 / RESPONSE     </tspan> Investigation · Containment · Recovery</text>
+<text x="26" y="508" class="output o6"><tspan class="amber">GOAL              </tspan> Blue Team / SOC Analyst</text>
+<g class="output p3"><text x="26" y="546" class="green">╭─ khant@localhost <tspan class="blue">~/lab</tspan></text><text x="26" y="570" class="green">╰─❯</text></g>
+<g class="type command3"><text x="64" y="570">python learning_loop.py</text></g>
+<text x="26" y="595" class="output o7"><tspan class="green">[practice]</tspan> understand → investigate → document → repeat</text>
+<g class="output o8"><text x="26" y="619" class="muted">Learning in public. One lab at a time.</text></g>
+<g class="output end"><rect x="355" y="607" width="8" height="15" fill="#7ee787" class="cursor"/></g>
+</g>
 </svg>
-
