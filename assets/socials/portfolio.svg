@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="38" viewBox="0 0 108 38" role="img" aria-labelledby="title desc">
+<title id="title">Portfolio — Khant Zayar</title><desc id="desc">Portfolio — Khant Zayar</desc>
+<style>.drift{animation:drift 6s ease-in-out infinite alternate}.reverse{animation-direction:alternate-reverse}@keyframes drift{from{transform:translateX(-4px)}to{transform:translateX(4px)}}@media(prefers-reduced-motion:reduce){.drift{animation:none}}</style>
+<rect x=".5" y=".5" width="107" height="37" rx="6" fill="#101923" stroke="#303d4b"/><g class="drift"><g transform="translate(10 10)" fill="none" stroke="#80cab8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="9" r="8"/><ellipse cx="9" cy="9" rx="3.5" ry="8"/><path d="M1 9H17"/></g></g><text x="35" y="24" fill="#d3dfeb" font-family="Arial,sans-serif" font-size="12">Portfolio</text>
+</svg>
