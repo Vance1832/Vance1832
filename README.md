@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terminal_banner.svg?v=5" width="760" alt="Forensic Lens: Khant Zayar, third-year Computer Science student at Rangsit University in Bangkok. Blue Team / SOC Analyst path; CompTIA Security+ in progress. A violet scan highlights an illustrative hex sample.">
+  <img src="assets/forensic_lens.svg" width="760" alt="Forensic Lens: Khant Zayar, third-year Computer Science student at Rangsit University in Bangkok. Blue Team / SOC Analyst path; CompTIA Security+ in progress. A violet scan highlights an illustrative hex sample.">
 </p>
 
 ## Certifications
@@ -24,11 +24,11 @@
 
 ## Software Tech Stack
 
-<p align="center"><img src="assets/software_stack.svg?v=1" width="760" alt="Software background: Python, JavaScript, TypeScript, C#, Bash, SQL, Next.js, React, Django, Linux, Git, Docker, PostgreSQL, MySQL. Colored icons glide gently side to side."></p>
+<p align="center"><img src="assets/software_stack.svg?v=2" width="760" alt="Software background: Python, JavaScript, TypeScript, C#, Bash, SQL, Next.js, React, Django, Linux, Git, Docker, PostgreSQL and MySQL. The full icon strip moves side to side."></p>
 
 ## Cybersecurity Toolkit
 
-<p align="center"><img src="assets/security_toolkit.svg?v=1" width="760" alt="Learning and lab toolkit: Kali Linux, Wireshark, Burp Suite, Nmap (exploring), TryHackMe, Cisco Packet Tracer."></p>
+<p align="center"><img src="assets/security_toolkit.svg?v=2" width="760" alt="Learning and lab toolkit: Kali Linux, Wireshark, Burp Suite, Nmap (exploring), TryHackMe, Cisco Packet Tracer, Splunk, Wazuh, Security Onion and Microsoft Sentinel. The full icon strip moves side to side."></p>
 
 ## Projects
 
