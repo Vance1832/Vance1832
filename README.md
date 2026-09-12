@@ -63,4 +63,3 @@
 </p>
 
 <p align="center"><sub>Understand how things break. Build them better.</sub></p>
-<p align="center"><sub>Terminal layout inspired by <a href="https://github.com/a1ohadance">a1ohadance</a> · Artwork customized for my learning journey.</sub></p>
