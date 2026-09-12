@@ -28,11 +28,11 @@
 
 ## Software Tech Stack
 
-<p align="center"><img src="assets/software_stack.svg?v=3" width="760" alt="Software background: Python, JavaScript, TypeScript, C#, Bash, SQL, Next.js, React, Django, Linux, Git, Docker, PostgreSQL and MySQL. The icon strip loops continuously to the left."></p>
+<p align="center"><img src="assets/software_stack.svg?v=4" width="760" alt="Software background: Python, JavaScript, TypeScript, C#, Bash, SQL, Next.js, React, Django, Linux, Git, Docker, PostgreSQL and MySQL. The icon strip loops continuously to the left."></p>
 
 ## Cybersecurity Toolkit
 
-<p align="center"><img src="assets/security_toolkit.svg?v=3" width="760" alt="Learning and lab toolkit: Kali Linux, Wireshark, Burp Suite, Nmap (exploring), TryHackMe, Cisco Packet Tracer, Splunk, Wazuh, Security Onion and Microsoft Sentinel. The icon strip loops continuously to the right."></p>
+<p align="center"><img src="assets/security_toolkit.svg?v=4" width="760" alt="Learning and lab toolkit: Kali Linux, Wireshark, Burp Suite, Nmap (exploring), TryHackMe, Cisco Packet Tracer, Splunk, Wazuh, Security Onion and Microsoft Sentinel. The icon strip loops continuously to the right."></p>
 
 ## Projects
 
