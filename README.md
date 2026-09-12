@@ -2,6 +2,10 @@
   <img src="assets/forensic_lens.svg" width="760" alt="Forensic Lens: Khant Zayar, third-year Computer Science student at Rangsit University in Bangkok. Blue Team / SOC Analyst path; CompTIA Security+ in progress. A violet scan highlights an illustrative hex sample.">
 </p>
 
+## About
+
+<p align="center"><img src="assets/about.svg" width="760" alt="Third-year Computer Science student on the cybersecurity track at Rangsit University in Bangkok. Focused on defensive security, threat detection and incident response. Seeking a SOC or Security Operations internship for Summer 2027."></p>
+
 ## Certifications
 
 ### Cybersecurity
@@ -24,11 +28,11 @@
 
 ## Software Tech Stack
 
-<p align="center"><img src="assets/software_stack.svg?v=2" width="760" alt="Software background: Python, JavaScript, TypeScript, C#, Bash, SQL, Next.js, React, Django, Linux, Git, Docker, PostgreSQL and MySQL. The full icon strip moves side to side."></p>
+<p align="center"><img src="assets/software_stack.svg?v=3" width="760" alt="Software background: Python, JavaScript, TypeScript, C#, Bash, SQL, Next.js, React, Django, Linux, Git, Docker, PostgreSQL and MySQL. The icon strip loops continuously to the left."></p>
 
 ## Cybersecurity Toolkit
 
-<p align="center"><img src="assets/security_toolkit.svg?v=2" width="760" alt="Learning and lab toolkit: Kali Linux, Wireshark, Burp Suite, Nmap (exploring), TryHackMe, Cisco Packet Tracer, Splunk, Wazuh, Security Onion and Microsoft Sentinel. The full icon strip moves side to side."></p>
+<p align="center"><img src="assets/security_toolkit.svg?v=3" width="760" alt="Learning and lab toolkit: Kali Linux, Wireshark, Burp Suite, Nmap (exploring), TryHackMe, Cisco Packet Tracer, Splunk, Wazuh, Security Onion and Microsoft Sentinel. The icon strip loops continuously to the right."></p>
 
 ## Projects
 

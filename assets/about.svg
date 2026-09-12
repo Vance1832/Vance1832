@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" role="img" aria-labelledby="title desc">
+  <title id="title">About Khant Zayar</title>
+  <desc id="desc">Third-year Computer Science student on the cybersecurity track at Rangsit University in Bangkok. Focused on defensive security, threat detection and incident response. Seeking a SOC Analyst or Security Operations internship for Summer 2027 to learn and contribute alongside experienced teams.</desc>
+  <defs>
+    <linearGradient id="surface" x2="1"><stop stop-color="#101923"/><stop offset="1" stop-color="#151322"/></linearGradient>
+    <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}</style>
+  </defs>
+  <rect x=".5" y=".5" width="759" height="149" rx="9" fill="url(#surface)" stroke="#303a49"/>
+  <rect x=".5" y=".5" width="4" height="149" rx="2" fill="#bca8eb"/>
+  <text x="24" y="27" fill="#bca8eb" font-size="11" letter-spacing="1.5">ABOUT / PROFILE</text>
+  <text x="24" y="54" fill="#e1e9f0" font-size="16">Third-year Computer Science student · Cybersecurity track</text>
+  <text x="24" y="75" fill="#9facbb" font-size="12">Rangsit University · Bangkok</text>
+  <text x="24" y="101" fill="#83c9e6" font-size="12">FOCUS</text>
+  <text x="82" y="101" fill="#c5d1dc" font-size="12">Defensive Security · Threat Detection · Incident Response</text>
+  <path d="M24 115H736" stroke="#313949"/>
+  <text x="24" y="136" fill="#dcbc7d" font-size="12">SEEKING</text>
+  <text x="92" y="136" fill="#d7e1e9" font-size="12">SOC / Security Operations Internship · Summer 2027</text>
+  <text x="736" y="136" text-anchor="end" fill="#969fac" font-size="11">learn · contribute · grow</text>
+</svg>
